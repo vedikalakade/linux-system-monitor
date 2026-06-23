@@ -11,7 +11,7 @@ A Bash scripting project that displays important system information and server h
 * Displays memory usage
 * Displays disk usage
 
-## Technologies Used
+## Technologies Used 
 
 * Linux
 * Bash Scripting
